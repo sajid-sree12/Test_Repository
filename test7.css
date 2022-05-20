@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+}
+caption{
+    color: chartreuse;
+}
+th{
+    color: darkred;
+}
+td{
+    color: blue;
+}
+table{
+    background-color: lime;
+    border-color: deeppink;
+    border-style: double;
+}
+table{
+  
+    size: 500px;
+}
