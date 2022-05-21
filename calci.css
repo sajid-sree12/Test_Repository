@@ -1,0 +1,22 @@
+.form-control{
+    border-radius: 30px;
+    width:130px;
+    height:60px;
+}
+.btn-primary{
+    border-radius: 30px;
+    width: 60px;
+    height: 50px;
+
+}
+.card-body{
+    background-color:yellowgreen;
+    border-radius: 30px;
+}
+body{
+    background-color: aqua;
+}h1{
+    text-align: center;
+    color: red;
+}
+
